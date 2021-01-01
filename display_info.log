@@ -1,0 +1,16 @@
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+WARNING:kivy:[Config      ] Older configuration version detected (0 instead of 21)
+WARNING:kivy:[Config      ] Upgrading configuration in progress.
+INFO:kivy:[Logger      ] Record log in C:\Users\salam_000\.kivy\logs\kivy_20-02-16_0.txt
+INFO:kivy:[Kivy        ] v1.11.1
+INFO:kivy:[Kivy        ] Installed at "C:\Users\salam_000\Anaconda3\lib\site-packages\kivy\__init__.py"
+INFO:kivy:[Python      ] v3.7.4 (default, Aug  9 2019, 18:34:13) [MSC v.1915 64 bit (AMD64)]
+INFO:kivy:[Python      ] Interpreter at "C:\Users\salam_000\Anaconda3\pythonw.exe"
+INFO:kivy:[Ran with args] ('John', 25), and kwargs: {}
+INFO:kivy:[Ran with args] ('John', 25), and kwargs: {}
+INFO:kivy:[Ran with args] (), and kwargs: {}
+INFO:kivy:[Ran with args] ('John', 25), and kwargs: {}
